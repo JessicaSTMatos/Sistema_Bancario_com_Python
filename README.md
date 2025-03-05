@@ -21,7 +21,7 @@ Este é um sistema bancário simples desenvolvido em Python. O projeto permite a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario.git
+   git clone https://github.com/JessicaSTMatos/Sistema_Bancario_com_Python.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
